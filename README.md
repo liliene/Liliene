@@ -2,8 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Liliene Picanço Pereira, tenho 23 anos e sou natural do Amazonas. Concluí o ensino médio no IFAM, com o curso técnico em administração. Atualmente, graduada em Engenharia de Software pelo ICET/UFAM. Com experiência em desenvolvimento web e projetos inovadores em startups e sistemas acadêmicos. Destaco-me em liderança, comunicação e capacidade de transformar ideias em soluções práticas. Busco aplicar conhecimentos técnicos e de gestão em
-equipes ágeis e inovadoras.
+Me chamo Liliene Picanço Pereira, tenho 23 anos e sou natural do Amazonas. Concluí o ensino médio no IFAM, com o curso técnico em administração. Atualmente, graduada em Engenharia de Software pelo ICET/UFAM. Com experiência em desenvolvimento web e projetos inovadores em startups e sistemas acadêmicos. Destaco-me em liderança, comunicação e capacidade de transformar ideias em soluções práticas. Busco aplicar conhecimentos técnicos e de gestão em equipes ágeis e inovadoras.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -39,6 +38,14 @@ equipes ágeis e inovadoras.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+<img
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
 <img 
     align="left" 
     alt="React"
@@ -63,7 +70,14 @@ equipes ágeis e inovadoras.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
+<img
+    align="left" 
+    alt="MariaDB"
+    title="MariaDB" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"
+/>
 <img 
     align="left" 
     alt="Git" 
