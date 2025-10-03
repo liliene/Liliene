@@ -23,6 +23,7 @@ Com experiência em **desenvolvimento web, startups e sistemas acadêmicos**, de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="30px" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="30px" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30px" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" alt="Git" width="30px" style="padding-right:10px;"/>
 </p>
 
 ---
