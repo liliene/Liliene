@@ -31,8 +31,8 @@ Com experiência em **desenvolvimento web, startups e sistemas acadêmicos**, de
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" alt="GitHub Stats"src="https://github-readme-stats.vercel.app/api?username=liliene&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" alt="GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliene&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liliene&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas do Liliene"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liliene&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas"/>
 </p>
 
 ---
