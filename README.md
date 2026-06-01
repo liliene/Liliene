@@ -26,14 +26,14 @@ Com experiência em **desenvolvimento web, startups e sistemas acadêmicos**, de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" alt="Git" width="30px" style="padding-right:10px;"/>
 </p>
 
----
+<!-- /* ---
 
 ### 📊 Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liliene&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas da Liliene"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liliene&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas"/>
-</p>
+</p> -->
 
 ---
 
