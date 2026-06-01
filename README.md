@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-🎓 Engenheira de Software • 🤖 Apaixonada por inovação • 🌍 Manaus-AM, Brasil
+🎓 Engenheira de Software • 🤖 Apaixonada por inovação • 🌍 AM, Brasil
 
 Com experiência em **desenvolvimento web, startups e sistemas acadêmicos**, destaco-me pela capacidade de transformar ideias em soluções práticas. Busco aplicar meus conhecimentos em **equipes ágeis e inovadoras**.
 
