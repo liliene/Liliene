@@ -109,14 +109,14 @@
 
 <div align="center">
   
-  <a href="https://github.com/Liliene">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liliene&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liliene&theme=radical&layout=compact&hide_border=true&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB"/>
+  <a href="https://github.com/liliene">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liliene&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliene&theme=radical&layout=compact&hide_border=true&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB"/>
   </a>
   
   <br><br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Liliene&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liliene&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" alt="GitHub Streak"/>
   
 </div>
 
