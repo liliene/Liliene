@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/foco-desenvolvimento%20web-blue?style=flat-square&logo=react&logoColor=white" alt="Foco"/>
   <img src="https://img.shields.io/badge/local-Brasil-0073B7?style=flat-square&logo=googlemaps&logoColor=white" alt="Local"/>
   
-  <br><br>
+  <br>
   
   ### 💫 Sobre Mim
   
@@ -114,7 +114,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliene&theme=radical&layout=compact&hide_border=true&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB"/>
   </a>
   
-  <br><br>
+  <br>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=liliene&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" alt="GitHub Streak"/>
   
