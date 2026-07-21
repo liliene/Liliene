@@ -185,17 +185,13 @@
   
   ### 💡 "Transformando ideias em código e código em soluções."
   
-  <br>
-  
-  <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%"/>
   
-  <br><br>
-  
+  <br>  
   <img src="https://komarev.com/ghpvc/?username=Liliene&label=👀%20Visualizações&color=58A6FF&style=flat" alt="Visualizações do perfil"/>
   
-  <br><br>
+  <br>
   
-  <i>🚀 Última atualização: 2024 • 💻 Feito com ❤️ por Liliene Picanço</i>
+  <i>🚀 Última atualização: 2026 • 💻 Feito com ❤️ por Liliene Picanço</i>
   
 </div>
