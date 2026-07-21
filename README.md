@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Cabeçalho com gradiente -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Liliene%20Picanço&fontSize=70&fontAlign=50&fontAlignY=35&desc=FullStack%20Developer&descAlign=50&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Liliene%20Picanço&fontSize=40&fontAlign=50&fontAlignY=35&desc=FullStack%20Developer&descAlign=50&descAlignY=55&animation=fadeIn" width="100%"/>
   
   <!-- Badges de status -->
   <img src="https://img.shields.io/badge/status-disponível%20para%20oportunidades-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Status"/>
